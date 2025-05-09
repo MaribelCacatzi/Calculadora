@@ -5,11 +5,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: aliceblue;
+    background-color: rgb(119, 136, 153);
 }
 
 .calculator {
-    background-color: #66CDAA;
+    background-color: rgb(95, 158, 160);
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -39,7 +39,7 @@ body {
     font-size: 1.2rem;
     border: none;
     border-radius: 15px;
-    background-color: black;
+    background-color: rgb(47, 79, 79);
     color: white;
     cursor: pointer;
     transition: background-color 0.3s ease;
